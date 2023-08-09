@@ -14,7 +14,7 @@
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="12" />
