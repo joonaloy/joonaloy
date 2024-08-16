@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am Joona Löytönen a 17yo student living in finland currently studying to be a software engineer</p>
+<p align="left">I am Joona Löytönen a 18yo student living in finland currently studying to be a software engineer</p>
 
 ###
 
