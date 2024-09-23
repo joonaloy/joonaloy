@@ -32,5 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio" height="40" alt="lua logo"  />
+  <img width="12" />
 </div>
 
